@@ -4,6 +4,7 @@ Salary & Affordability
 
 Live dashboard:
 https://liveastonac-my.sharepoint.com/:u:/r/personal/250406630_aston_ac_u/Documents/uk_cost%20and%20labour%20analysis.pbix?csf=1&web=1&e=cbU6eB
+
 key insights:
 Yorkshire and The Humber has the best take-home pay after rent at £20,920/yr — £6,111 more than London
 London pays the highest median salary (£38,293) but rent consumes 61.3% of it, leaving only £14,809/yr
