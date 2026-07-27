@@ -13,7 +13,7 @@ A regional analysis of salary, rent affordability, gender pay gap, house prices,
 - **London** pays the highest median salary (£38,293), but rent consumes **61.3%** of it, leaving only £14,809/yr.
 - **North East** has the lowest rent burden at **26.9%** — the only region comfortably under the 30% safe threshold.
 -
--  <img width="594" height="335" alt="image" src="https://github.com/user-attachments/assets/bbfc4ce7-bf84-4b4d-97a3-0ebb606363b0" />
+   <img width="594" height="335" alt="image" src="https://github.com/user-attachments/assets/bbfc4ce7-bf84-4b4d-97a3-0ebb606363b0" />
 
 
 ## Gender Pay Gap
@@ -31,7 +31,7 @@ A regional analysis of salary, rent affordability, gender pay gap, house prices,
 - **South West** had the highest rent growth at **35.4%** from 2015/16 to 2023/24.
 - **London** had the lowest % growth at 19.1%, but started from the highest base (£1,643 → £1,957/month).
 
-- <img width="596" height="332" alt="image" src="https://github.com/user-attachments/assets/2d457acf-11b1-44e1-b34f-2f235cac9d04" />
+ <img width="596" height="332" alt="image" src="https://github.com/user-attachments/assets/2d457acf-11b1-44e1-b34f-2f235cac9d04" />
 
 
 ## Housing Market
@@ -64,8 +64,8 @@ Data sources:
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/uk-labour-market-analysis.git
-cd uk-labour-market-analysis
+git clone https://github.com/sanjaikanna1111/uk-labour-market-analysis/tree/main/uk_labour%20cost%20analysis.git
+cd uk_market analysis
 pip install -r requirements.txt
 ```
 
@@ -75,10 +75,16 @@ Then open the Jupyter notebooks in `/notebooks` or run the analysis scripts in `
 
 ```
 uk-labour-market-analysis/
-├── data/           # raw and cleaned ONS datasets
-├── notebooks/       # exploratory analysis and visualisation
-├── src/             # Python scripts for data processing
-├── dashboard/        # Power BI .pbix file
-├── images/           # dashboard screenshots for README
-└── requirements.txt
+├── dashboard/ # Power BI .pbix file
+        └──gender analysis dashboard
+        └── housing market analysis
+        └── uk labour market analysis overview
+        └───uk rent trends
+        └── analysis using python       
+├── data/
+      └── data processed/  #cleaned with added feautures           
+      └── data raw/      # raw and cleaned ONS datasets                
+
+├──notebook
+       └── EDA of the data
 ```
