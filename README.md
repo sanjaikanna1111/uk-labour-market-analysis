@@ -12,6 +12,9 @@ A regional analysis of salary, rent affordability, gender pay gap, house prices,
 - **Yorkshire and The Humber** has the best take-home pay after rent at **£20,920/yr** — £6,111 more than London.
 - **London** pays the highest median salary (£38,293), but rent consumes **61.3%** of it, leaving only £14,809/yr.
 - **North East** has the lowest rent burden at **26.9%** — the only region comfortably under the 30% safe threshold.
+-
+-  <img width="594" height="335" alt="image" src="https://github.com/user-attachments/assets/bbfc4ce7-bf84-4b4d-97a3-0ebb606363b0" />
+
 
 ## Gender Pay Gap
 
@@ -20,11 +23,16 @@ A regional analysis of salary, rent affordability, gender pay gap, house prices,
 - South East women spend **53.6%** of their salary on rent vs **36.0%** for men in the same region.
 - **London** has the smallest gap at **21.5%** — still significant, but the lowest of all regions.
 
+<img width="602" height="338" alt="image" src="https://github.com/user-attachments/assets/c09cd62a-26f5-4936-91dd-0477f1956561" />
+
 ## Rent Trends (2015–2024)
 
 - Every region saw rent rise faster than wages over the 9-year period.
 - **South West** had the highest rent growth at **35.4%** from 2015/16 to 2023/24.
 - **London** had the lowest % growth at 19.1%, but started from the highest base (£1,643 → £1,957/month).
+
+- <img width="596" height="332" alt="image" src="https://github.com/user-attachments/assets/2d457acf-11b1-44e1-b34f-2f235cac9d04" />
+
 
 ## Housing Market
 
@@ -39,6 +47,7 @@ A regional analysis of salary, rent affordability, gender pay gap, house prices,
 - Vacancies are still 22% above pre-pandemic levels, suggesting structural labour shortages continue.
 
 ---
+<img width="598" height="335" alt="image" src="https://github.com/user-attachments/assets/58f77279-13f5-4147-98f6-76bb6b4a0840" />
 
 ## Tools & Data
 
