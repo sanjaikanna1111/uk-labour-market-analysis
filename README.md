@@ -74,17 +74,14 @@ Then open the Jupyter notebooks in `/notebooks` or run the analysis scripts in `
 ## Repo Structure
 
 ```
+## Repository Structure
 uk-labour-market-analysis/
-├── dashboard/ # Power BI .pbix file
-        └──gender analysis dashboard
-        └── housing market analysis
-        └── uk labour market analysis overview
-        └───uk rent trends
-        └── analysis using python       
-├── data/
-      └── data processed/  #cleaned with added feautures           
-      └── data raw/      # raw and cleaned ONS datasets                
-
-├──notebook
-       └── EDA of the data
+├── uk_labour cost analysis/
+│   ├── Dashboard/                  # Power BI file + page screenshots
+│   ├── data/
+│   │   ├── data raw/               # Original ONS datasets
+│   │   └── data processed/         # Cleaned datasets with features
+│   └── notebook/                   # EDA and analysis notebooks
+├── LICENSE
+└── README.md
 ```
