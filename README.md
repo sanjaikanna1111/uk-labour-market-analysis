@@ -1,11 +1,7 @@
 # UK Labour Market Analysis
+**Regional analysis of salary, rent affordability, gender pay gap, housing, and job vacancies across England using ONS 2024 data**
 
-A regional analysis of salary, rent affordability, gender pay gap, house prices, and job vacancies across 9 England regions using ONS data.
-
-**Live dashboard:** [Power BI Dashboard](https://liveastonac-my.sharepoint.com/:u:/r/personal/250406630_aston_ac_u/Documents/uk_cost%20and%20labour%20analysis.pbix?csf=1&web=1&e=cbU6eB)
-
-> ⚠️ Note: The link above requires an Aston University login. See screenshots below for a preview without needing access.
-> 
+This project examines how take-home pay, housing costs, and labour market conditions vary across the nine English regions. It combines official statistics to surface practical insights on affordability, inequality, and labour demand.
 
 ## Salary & Affordability
 
