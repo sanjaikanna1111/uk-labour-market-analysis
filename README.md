@@ -36,6 +36,8 @@ This project examines how take-home pay, housing costs, and labour market condit
 - London house prices peaked at £542,387 in Aug 2022 before falling as interest rates rose.
 - All regions showed a price decline in late 2022 and 2023 — the first UK-wide correction in over a decade.
 
+<img width="491" height="330" alt="image" src="https://github.com/user-attachments/assets/340891f3-8b27-49f1-b929-3b7485f5e13d" />
+
 ## Job Market
 
 - Total UK vacancies for the main sectors in Aug–Oct 2024 were **105,000** — down 36.3% from the post-COVID peak of 805,000 in 2022.
